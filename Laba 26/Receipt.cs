@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Work.day1
 {
-    class Receipt
-    {
+    
         class Receipt
         {
             private string develop;
@@ -42,5 +41,4 @@ namespace Work.day1
                 Console.WriteLine("Версия:" + Summ);
             }
         }
-    }
 }

@@ -13,3 +13,6 @@ D:\Progr.Exe.1.day\Laba 26\obj\Debug\Laba 26.pdb
 D:\DayExeOne\Laba 26\bin\Debug\Laba 26.exe.config
 D:\DayExeOne\Laba 26\obj\Debug\Laba 26.exe
 D:\DayExeOne\Laba 26\obj\Debug\Laba 26.pdb
+D:\DayExeOne\Laba 26\bin\Debug\Laba 26.exe
+D:\DayExeOne\Laba 26\bin\Debug\Laba 26.pdb
+D:\DayExeOne\Laba 26\obj\Debug\Laba 26.csprojResolveAssemblyReference.cache
